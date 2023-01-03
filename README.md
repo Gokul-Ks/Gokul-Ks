@@ -1,6 +1,6 @@
 [![MasterHead](header.png)]()
 
-  <h3 align="left">Connect with me:</h3>
+ <h3 align="left">Connect with me:</h3>
  <p align="left" style="background: white;">
   <a href="https://twitter.com/GokulZuzumaki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/gokul-ks-243735207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
